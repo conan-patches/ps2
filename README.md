@@ -49,6 +49,8 @@ The patchers work on Windows and Linux.
 
 Drag and drop the original ISO file onto the `WINDOWS_DROP_CONAN_PS2_ISO_HERE.bat` file if you are using Windows.
 
+https://github.com/user-attachments/assets/25a0cf95-2634-42ac-a2b4-cea14cf0351f
+
 Drag and drop the original ISO file onto the `LINUX_DROP_CONAN_PS2_ISO_HERE.sh` file if you are using Linux. Note: The file must be executable and your environnment must be allowing drag and drop a file onto a `.sh` script.
 
 ### How to use the patchers manually (using command line)
