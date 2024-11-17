@@ -33,9 +33,10 @@
 
 The patched game works on the *PCSX2* emulator and real *PS2* hardware.
 
+> [!TIP]
+> Check the [wiki](https://github.com/conan-patches/ps2/wiki) for important notes for new players, streamers, and also emulation tips.
+
 ## 💾 Downloads and checksums
-
-
 
 | File (sha1sum)                                                                   | Size    | Download                                                            |
 |----------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
