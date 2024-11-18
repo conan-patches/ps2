@@ -33,8 +33,12 @@
 
 The patched game works on the *PCSX2* emulator and real *PS2* hardware.
 
-> [!TIP]
+> [!CAUTION]
 > Check the [wiki](https://github.com/conan-patches/ps2/wiki) for important notes for new players, streamers, and also emulation tips.
+
+> [!WARNING]
+> "Enable honorifics" in settings of translation v1.0.0 does not enable honorifics. It enables SIMPLE MODE instead. (It helps you solve Visual Files)
+
 
 ## 💾 Downloads and checksums
 
